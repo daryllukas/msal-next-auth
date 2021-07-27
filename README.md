@@ -26,6 +26,13 @@ Install dependencies
   npm install
 ```
 
+Set env variables (See [guide](https://www.daryllukas.me/azure-ad-authentication-using-msal-and-nextjs-react/))
+
+```bash
+  cp .env.local.example .env.local
+```
+
+
 Start the server
 
 ```bash
